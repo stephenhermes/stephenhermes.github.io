@@ -9,6 +9,25 @@
       <url>https://stephenhermes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://stephenhermes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://stephenhermes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2023 16:51:06 -0600</lastBuildDate><atom:link href="https://stephenhermes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://stephenhermes.github.io/tags/hugo/</link>
+      <pubDate>Thu, 02 Mar 2023 16:51:06 -0600</pubDate>
+      
+      <guid>https://stephenhermes.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>katex</title>
+      <link>https://stephenhermes.github.io/tags/katex/</link>
+      <pubDate>Thu, 02 Mar 2023 16:51:06 -0600</pubDate>
+      
+      <guid>https://stephenhermes.github.io/tags/katex/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
