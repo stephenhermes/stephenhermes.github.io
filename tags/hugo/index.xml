@@ -19,7 +19,7 @@
       <guid>https://stephenhermes.github.io/posts/hello-world/</guid>
       <description>I guess the &amp;ldquo;Hello World&amp;rdquo; of tech blogs is an explanation of how the blog itself got set up. As of this writing, I&amp;rsquo;m using the Hugo framework for this website. It makes developing a website feel like more of a backend experience than a frontend experience, which (for me at least) is a good thing.
 A few of the features that made Hugo attractive to me are:
-All the content is written in markdown, and Hugo converts it to html and does all the formatting for you1.</description>
+All the content is written in markdown, not html.</description>
     </item>
     
   </channel>
